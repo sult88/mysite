@@ -1,0 +1,8 @@
+polls/static/polls/style.css¶
+
+li a {
+    color: green;
+}
+body {
+    background: black url("images/background.gif") no-repeat;
+}
